@@ -1,2 +1,3 @@
 # x25
-LAPB and x.25 implementation
+
+A LAPB and x.25 implementation in modern C++.
